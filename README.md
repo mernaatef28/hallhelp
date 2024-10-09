@@ -74,9 +74,4 @@ You can download the APK file for the HallHelp app from the following link:
 ## Contribution
 Contributions to enhance the app are welcome! Feel free to fork the repository and submit pull requests. Please adhere to the project's code style and standards.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-You can modify any sections or add specific details relevant to your app’s functionality or features as needed!
