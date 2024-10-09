@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "381153283504",
+    "firebase_url": "https://hallhelp-c1118-default-rtdb.firebaseio.com",
+    "project_id": "hallhelp-c1118",
+    "storage_bucket": "hallhelp-c1118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381153283504:android:cad698c7e6b13cd17b1a75",
+        "android_client_info": {
+          "package_name": "com.NasaSAHhallhelp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaqJSWvE4xpMQyiv8fAer6gwi5axz79pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381153283504:android:d98780119be9c7107b1a75",
+        "android_client_info": {
+          "package_name": "com.example.hallhelp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaqJSWvE4xpMQyiv8fAer6gwi5axz79pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
