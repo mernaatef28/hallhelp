@@ -1,20 +1,19 @@
 <h1 align="center" id="title">Hall Help</h1>
 
 <p align="center"><img src="https://github.com/mernaatef28/hallhelp/blob/main/assets/hall%20help.png?raw=true" alt="project-image"></p>
-Sure! Here’s a description of your app, structured in a way that you can include it in your README file:
 
----
 
 # HallHelp App
 
 ## Overview
-The HallHelp app is designed to facilitate various operational needs for users in a streamlined and user-friendly interface. Leveraging Firebase Firestore for real-time data management, this app allows users to manage and request resources like mentors and organizers efficiently.
+The HallHelp app is designed to facilitate various operational needs for users in a streamlined and user-friendly interface. Leveraging Firebase Firestore for real-time data management, this app allows users to manage and request resources like mentors and organizers efficiently, it coded to serve the NASA SPC Hurghada operation managements to serve a safe inspiring work environment to the hacathon time . 
 
 ## Features
 - **User-Friendly Interface**: The app provides an intuitive layout that makes navigation easy for all users.
 - **Real-Time Updates**: Utilizing Firestore's real-time capabilities, users can see updates immediately without needing to refresh the app.
 - **Resource Management**: Users can view, request, and manage resources such as mentors and organizers through dynamic cards.
-- **In-App Web View**: Users can access external resources through an integrated web view for a seamless experience.
+- **In-App Web View**: Users can access external resources through an integrated web view for a seamless experience, itegrated with the website made by my colleges  [@victor nisem](https://github.com/VICONISEM) and  [@ThisIsMrIsmail](https://github.com/ThisIsMrIsmail/)
+  website repo :
 
 ## Technology Stack
 - **Flutter**: The app is built using Flutter, ensuring a smooth and responsive UI across multiple platforms.
