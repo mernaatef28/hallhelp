@@ -13,7 +13,7 @@ The HallHelp app is designed to facilitate various operational needs for users i
 - **Real-Time Updates**: Utilizing Firestore's real-time capabilities, users can see updates immediately without needing to refresh the app.
 - **Resource Management**: Users can view, request, and manage resources such as mentors and organizers through dynamic cards.
 - **In-App Web View**: Users can access external resources through an integrated web view for a seamless experience, itegrated with the website made by my colleges  [@victor nisem](https://github.com/VICONISEM) and  [@ThisIsMrIsmail](https://github.com/ThisIsMrIsmail/)
-  website repo :
+  website link : [NASA SPC Hurghada leaderboard ](https://nasa-space-apps-leaderboard-lilac.vercel.app/) 
 
 ## Technology Stack
 - **Flutter**: The app is built using Flutter, ensuring a smooth and responsive UI across multiple platforms.
